@@ -11,7 +11,7 @@ The True Energy Developer API currently offers access to electricity prices in D
 It's easy to get started and the API supports OData queries! Giving you a very flexible api with options to search, filter and more directly in the api request.
 
 **Wan't to learn more about OData**
-(Odata)[https://odata.org]
+(Odata)[https://www.odata.org]
 
 ## Getting started
 
