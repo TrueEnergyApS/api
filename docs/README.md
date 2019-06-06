@@ -1,6 +1,7 @@
 # True Energy Aps | Developer 
 
 Quick links: 
+* [Github pages]([home](https://trueenergyaps.github.io/api/)
 * [True Energy Web Site](https://trueenergy.dk)
 * [True Energy Swagger Api Description](https://trueenergyapi.azurewebsites.net/swagger/index.html)
 
@@ -11,4 +12,4 @@ Quick links:
 ## Samples
 
 
-[editor on GitHub](https://github.com/TrueEnergyApS/developer/edit/master/docs/README.md)
+[edit page](https://github.com/TrueEnergyApS/developer/edit/master/docs/README.md)
