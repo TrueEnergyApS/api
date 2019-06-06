@@ -6,7 +6,7 @@ Quick links:
 * [True Energy Swagger Api Description](https://trueenergyapi.azurewebsites.net/swagger/index.html)
 
 ## Introduction
-The True Energy Developer API currently offers access to electricity prices in Denmark incl. estimated CO2 emission. 
+The True Energy Developer API currently offers access to electricity prices in Denmark incl. estimated Co2 emission. 
 
 It's easy to get started and the API supports OData queries! Giving you a very flexible api with options to search, filter and more directly in the api request.
 
